@@ -1,1 +1,5 @@
 # agile-git-practice
+
+<https://www.smartdatacollective.com/potential-hurdles-limiting-internet-things/>
+
+I thought this article gave a good overview of what the Internet of Things is, and presented realistic problems with it. A few of the concerns that I thought were interesting were the ones about privacy and security and data surge. If everything is connected to the web, it raises concerns about privacy and our data. Today, we already see a lot of data breaches when it comes to the information that we put up on social media sites, or dating apps; what would happen if all of our data, even how toasted we like our bread, is breached? This new influx of information would also lead to issues with where to store the data. At the moment, comanies aren't ready to store the amount of data that would be collected on a day to day basis. 
